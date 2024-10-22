@@ -5,7 +5,7 @@ import { Container } from './styles';​
 import { TextInput, TextInputProps } from "react-native";​
 
 import { PropsWithChildren } from "react";​
-
+ 
 ​
 // Linha 11 - Aqui definimos um componente chamado Input, que é uma função que recebe um conjunto de propriedades (props).​
 
